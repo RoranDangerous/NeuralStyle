@@ -3,4 +3,6 @@ env/
 .idea
 __pycache__
 *.pyc
-*.jpg
+selfie*
+programming*
+first-try*

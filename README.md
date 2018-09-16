@@ -1,6 +1,6 @@
 # neural-style
 
-An implementation of [neural style][paper] in TensorFlow.
+An implementation of [neural style][paper] in TensorFlow. From https://github.com/anishathalye/neural-style
 
 This implementation is a lot simpler than a lot of the other ones out there,
 thanks to TensorFlow's really nice API and [automatic differentiation][ad].
