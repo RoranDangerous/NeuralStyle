@@ -1,6 +1,6 @@
 # neural-style
 
-![output](examples/tweaks/profile.jpg)
+![output](examples/profile.jpg)
 ![input-content](examples/selfie3.jpg)
 ![input-style](examples/programming6.jpg)
 
