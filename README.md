@@ -1,5 +1,9 @@
 # neural-style
 
+![output](examples/tweaks/profile.jpg)
+![input-content](examples/selfie3.jpg)
+![input-style](examples/programming6.jpg)
+
 An implementation of [neural style][paper] in TensorFlow. From https://github.com/anishathalye/neural-style
 
 This implementation is a lot simpler than a lot of the other ones out there,
